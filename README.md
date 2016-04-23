@@ -1,0 +1,2 @@
+# MyNewEnteroStockApp
+newApp
